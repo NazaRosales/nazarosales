@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Nazareno Rosales</h1>
-<h3 align="center">Fullstack developer from Argentina</h3>
+<h3 align="center">Desarrollador web fullstack de la ciudad de Paraná, Entre Ríos, Argentina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazarosales&label=Profile%20views&color=0e75b6&style=flat" alt="nazarosales" /> </p>
 
